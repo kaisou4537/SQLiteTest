@@ -55,20 +55,6 @@ public class MainActivity extends ActionBarActivity {
         tv.setText(buf.toString());
         setContentView(tv);
 
-
-
-//        TextView tv = new TextView(this);
-//        tv.setText("hogehoge");
-//        setContentView(tv);
-
-//        if (savedInstanceState == null) {
-//            getSupportFragmentManager().beginTransaction()
-//                    .add(R.id.container, new PlaceholderFragment())
-//                    .commit();
-//        }
-
-
-
     }
 
 
